@@ -1,5 +1,5 @@
-import {
-    ReactNode, useCallback, useEffect, useRef, useState, React,
+import React, {
+    ReactNode, useCallback, useEffect, useRef, useState,
 } from 'react';
 import { classNames } from 'shared/lib/classNames/classNames';
 import { Portal } from 'shared/ui/Portal/Portal';
