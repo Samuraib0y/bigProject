@@ -36,6 +36,13 @@
     }
   ],
   "profile": {
-    "name": "typicode"
+    "first": "Сабина",
+    "lastname": "Припа",
+    "age": 24,
+    "currency": "RUB",
+    "country": "Russia",
+    "city": "Moscow",
+    "username": "admin",
+    "avatar": "https://instagram.fcwc1-1.fna.fbcdn.net/v/t39.30808-6/364810805_18379072735005466_2936844016529007193_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08&_nc_ht=instagram.fcwc1-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=xS4XizkbyyUAX9Xw8Eb&edm=AP_V10EAAAAA&ccb=7-5&oh=00_AfCHKSt_fdQctb10gFIPXbuaLMQkz63gVGj40J-5hCJx_g&oe=64F4167D&_nc_sid=2999b8"
   }
 }
